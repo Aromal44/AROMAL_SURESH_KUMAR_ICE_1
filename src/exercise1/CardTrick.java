@@ -8,6 +8,7 @@ import java.util.Scanner;
  *
  * @author dancye
  * @author Paul Bonenfant Jan 25, 2022 
+ * modifier Aromal Suresh Kumar
  */
 public class CardTrick {
     
@@ -51,6 +52,7 @@ public class CardTrick {
      * A simple method to print out personal information. Follow the instructions to 
      * replace this information with your own.
      * @author Paul Bonenfant Jan 2022
+     * modifier Aromal Suresh Kumar
      */
     private static void printInfo() {
     
